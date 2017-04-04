@@ -27,3 +27,11 @@ ul {
 .red {
   border: 3px solid red!important;
 }
+
+.red-text {
+  color: red;
+}
+
+.center {
+  text-align: center;
+}
